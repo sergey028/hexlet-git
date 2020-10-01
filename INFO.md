@@ -6,3 +6,5 @@ new page
 new page2
 new page3
 new page4
+page1
+page2
